@@ -9,14 +9,14 @@
 |Express $ node.js| backend |
 ---
 
-##cloning the repository
+## cloning the repository ##
 ```bash
 git clone https://github.com/AFRIKA-001/blogPostApiProject.git
 cd blogPostApiProject
 ```
 ---
 
-#*installation*
+*** installation ***
 ``` bash
 npm install
 nodemon index.js
