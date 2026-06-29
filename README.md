@@ -17,7 +17,7 @@ cd blogPostApiProject
 ```
 ---
 
-*** installation ***
+***  installation   ***
 ``` bash
 npm install
 nodemon index.js
