@@ -2,11 +2,12 @@
 ---
 ### a blog post project to practice my api knowledge where users can create,read,update,and update their posts
 *Tech stack*
+----
 |tech stack|role|
 |----------|----|
 | Ejs | SSR |
 |Css | styling |
-|Express $ node.js| backend |
+|Express & node.js| backend |
 ---
 
 ## cloning the repository ##
